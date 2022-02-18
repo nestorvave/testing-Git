@@ -8,3 +8,5 @@ console.log(getSmaller(7,1));
 function getGreater(a,b) {
     return Math.max(a,b)
 }
+
+console.log("msg")
