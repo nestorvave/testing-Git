@@ -11,3 +11,8 @@ function getGreater(a,b) {
 
 console.log("msg")
 console.log("2nd message")
+
+const secondPower=(n)=>{
+    return Math.pow(n,2)
+}
+console.log(secondPower(5));
