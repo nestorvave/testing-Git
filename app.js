@@ -10,3 +10,4 @@ function getGreater(a,b) {
 }
 
 console.log("msg")
+console.log("2nd message")
