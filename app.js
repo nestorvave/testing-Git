@@ -11,3 +11,4 @@ function getGreater(a,b) {
 console.log(getGreater(7,1));
 
 console.log("hola")
+console.log("32")
