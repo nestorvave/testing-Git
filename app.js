@@ -23,3 +23,12 @@ function sayHello (user){
 }
 
 sayHello("Nestor")
+
+
+/////////////
+
+function round (value1){
+    return console.log( Math.round(value1))
+}
+
+round (5.51)
