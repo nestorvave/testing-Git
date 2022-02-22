@@ -16,3 +16,10 @@ const secondPower=(n)=>{
     return Math.pow(n,2)
 }
 console.log(secondPower(5));
+
+/////////////
+function sayHello (user){
+    return console.log( `hello ${user}`)
+}
+
+sayHello("Nestor")
