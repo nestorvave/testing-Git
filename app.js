@@ -17,3 +17,6 @@ const secondPower=(n)=>{
 }
 console.log(secondPower(5));
 console.log("main")
+getPerimeter(3,5)
+
+console.log("merge challenge")
