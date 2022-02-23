@@ -1,5 +1,5 @@
-function getPerimeter ( h, l ){
-    let perimeter = ((2*(h))+(2*(l)))
+function getPerimeter ( w, l ){
+    let perimeter = ((2*(w))+(2*(l)))
 
     return console.log(perimeter)
 }
