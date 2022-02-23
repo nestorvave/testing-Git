@@ -1,4 +1,3 @@
-
 console.log(5+5)
 
 function getSmaller(a,b) {
