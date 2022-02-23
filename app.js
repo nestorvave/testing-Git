@@ -32,3 +32,9 @@ function round (value1){
 }
 
 round (5.51)
+
+const getSquare = (n)=>{
+    return console.log(`Result ${Math.sqrt(n)}`)
+}
+
+getSquare(9)
